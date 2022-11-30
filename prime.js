@@ -5,3 +5,11 @@ for(i=1;i<7;i++)
         count++;
       }
 }
+  if(count==2)
+    {
+      console.log("prime");
+    }
+  else
+    {
+      console.log("not a prime");
+    }
